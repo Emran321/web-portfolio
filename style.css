@@ -1,0 +1,19 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: rgb(95, 2, 218);
+}
+.first-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-part img{
+    width: 100%;
+    
+}
